@@ -2714,19 +2714,39 @@ input, select, textarea {
 			}
 
 			.tiles article.style3 > .image:before {
-				background-color: #7bd0c1;
+				background-color: #ab5093;
 			}
 
 			.tiles article.style4 > .image:before {
-				background-color: #c75b9b;
+				background-color: #a34a56;
 			}
 
 			.tiles article.style5 > .image:before {
-				background-color: #ae85ca;
+				background-color: #8c6f82;
 			}
 
 			.tiles article.style6 > .image:before {
-				background-color: #8499e7;
+				background-color: #7c7c7c;
+			}
+
+			.tiles article.style7 > .image:before {
+				background-color: #e6a9d6;
+			}
+
+			.tiles article.style8 > .image:before {
+				background-color: #656565;
+			}
+
+			.tiles article.style9 > .image:before {
+				background-color: #8f7d68;
+			}
+
+			.tiles article.style10 > .image:before {
+				background-color: #ac895a;
+			}
+
+			.tiles article.style11 > .image:before {
+				background-color: #90634b;
 			}
 
 			body:not(.is-touch) .tiles article:hover > .image {
