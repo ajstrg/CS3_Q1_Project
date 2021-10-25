@@ -2600,7 +2600,7 @@ input, select, textarea {
 
 				.tiles article > .image img {
 					display: block;
-					width: 100%;
+					width: 400px;
 				}
 
 				.tiles article > .image:before {
