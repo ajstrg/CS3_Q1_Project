@@ -3008,6 +3008,7 @@ input, select, textarea {
 	}
 
 	#menu {
+		font-family: 'Karla', sans-serif;
 		-moz-transform: translateX(22em);
 		-webkit-transform: translateX(22em);
 		-ms-transform: translateX(22em);
