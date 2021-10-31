@@ -127,11 +127,6 @@ input, select, textarea {
 	.subtext {
 		font-family: 'Karla', sans-serif;
 	}
-
-	div .subtext {
-		font-family: 'Karla', sans-serif;
-	}	
-
 		@media screen and (max-width: 1680px) {
 
 			body, input, select, textarea {
