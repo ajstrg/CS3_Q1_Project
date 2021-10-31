@@ -127,6 +127,17 @@ input, select, textarea {
 	.subtext {
 		font-family: 'Karla', sans-serif;
 	}
+
+	.subtext_h2 {
+		font-family: 'Karla', sans-serif;
+		font-weight: 500;
+	}
+
+	.subtext_center {
+		font-family: 'Karla', sans-serif;
+		text-align: center;
+	}
+
 		@media screen and (max-width: 1680px) {
 
 			body, input, select, textarea {
