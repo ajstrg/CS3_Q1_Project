@@ -101,8 +101,8 @@ input, select, textarea {
 
 	body {
 		background-image: url("../../images/index_background.png");
-		background-position: 100% 10%;
-		background-position: absolute;
+		background-position: 110% 10%;
+		background-position: relative;
 		background-repeat: no-repeat;
 		background-attachment: local;
 		background-size: 768px 540px;
