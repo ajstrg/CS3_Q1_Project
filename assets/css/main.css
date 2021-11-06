@@ -104,7 +104,7 @@ input, select, textarea {
 		background-position: 700px 200px;
 		background-repeat: no-repeat;
 		background-attachment: local;
-		background-size: 768px 540px;
+		background-size: 1000px 704px;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
