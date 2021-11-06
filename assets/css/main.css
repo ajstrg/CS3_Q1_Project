@@ -100,7 +100,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-image: url("index_background.png");
+		background-image: url("../../images/index_background.png");
 		background-position: 100% 10%;
 		background-repeat: no-repeat;
 		background-attachment: local;
