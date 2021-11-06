@@ -99,7 +99,7 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
-	body {
+	body.home{
 		background-image: url("../../images/index_background.png");
 		background-position: 110% 10%;
 		background-position: relative;
@@ -108,6 +108,10 @@ input, select, textarea {
 		background-size: 768px 540px;
 	}
 
+	body {
+		background-color: #ffffff;
+	}
+		
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
 			-webkit-animation: none !important;
