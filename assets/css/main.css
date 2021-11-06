@@ -101,7 +101,8 @@ input, select, textarea {
 
 	body {
 		background-image: url("index_background.png");
-		position: relative;
+		background-size: cover;
+		background-position: center;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
