@@ -103,7 +103,6 @@ input, select, textarea {
 		background-image: url("index_background.png");
 		background-position: center top;
 		background-repeat: no-repeat;
-		background-size: 100% 100%;
 		background-attachment: local;
 	}
 
