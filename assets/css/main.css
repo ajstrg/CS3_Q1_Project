@@ -101,10 +101,10 @@ input, select, textarea {
 
 	body {
 		background-image: url("../../images/index_background.png");
-		background-position: 100% 10%;
+		background-position: absolute;
 		background-repeat: no-repeat;
 		background-attachment: local;
-		background-size: 1000px 704px;
+		background-size: 768px 540px;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
